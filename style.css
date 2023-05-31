@@ -43,7 +43,6 @@ button {
 /* header */
 .logo img {
   width: 210px;
-
   padding: 10px 30px;
   display: inline-block;
 }
@@ -99,7 +98,8 @@ button {
 .text-container h3 {
   width: auto;
   margin: 30px 0px;
-  font-size: 24px;
+  font-size: 22px;
+  font-weight: 400 !important;
 }
 
 .btn-container {
